@@ -56,3 +56,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 This project was created for educational purposes, helping students understand the logistic map and its properties interactively.
 
+## Credits
+
+This project was created by nagi with assistance from ChatGPT as a coding and brainstorming tool.
+
